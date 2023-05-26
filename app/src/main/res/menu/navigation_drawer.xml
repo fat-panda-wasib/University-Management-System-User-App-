@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/navigation_ebook"
+        android:title="Online Library"
+        android:icon="@drawable/ic_ebook"/>
+
+    <item android:id="@+id/navigation_portal"
+        android:title="GUB Portal"
+        android:icon="@drawable/ic_portal"/>
+
+    <item android:id="@+id/navigation_website"
+        android:title="Visit GUB Website"
+        android:icon="@drawable/ic_website"/>
+
+    <item android:id="@+id/navigation_theme"
+        android:title="Change Theme"
+        android:icon="@drawable/ic_theme"/>
+
+    <item android:id="@+id/navigation_developer"
+        android:title="Developers"
+        android:icon="@drawable/ic_developer"/>
+
+    <item android:id="@+id/navigation_review"
+        android:title="Rate Us"
+        android:icon="@drawable/ic_review"/>
+
+    <item android:id="@+id/navigation_share"
+        android:title="Share App"
+        android:icon="@drawable/ic_share"/>
+
+</menu>

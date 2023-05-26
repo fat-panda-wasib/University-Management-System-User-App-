@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Green UMS</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="ranking">Green University of Bangladesh (GUB) is one of the top ten ranked university among the private universities of Bangladesh as per Studybarta.com.\n\nCSIC is among the first basic research organizations in Europe. The CSIC consisted in 2006 of 126 centers and institutes distributed throughout Spain.\n\nCSIC is attached to the Ministry of Education and its main objective is to promote scientific research with a view to ensuring the progress of the scientific and technological level of the country which will contribute to increasing the welfare of the citizens.</string>
+    <string name="do_you_know">GUB is the only ISO 9001:2008 certified University in Bangladesh for designing and developing course content and ensuring quality education at undergraduate and graduate level.</string>
+    <string name="about_university">Green University of Bangladesh (GUB), one of the leading private universities in Bangladesh, was founded in 2003 under the Private University Act 1992 with a vision to create a global higher education center of excellence. GUB offers students from all walks of life the advantages of an affordable, personalized education of global standard. As a modern, dynamic, and innovative institution for undergraduate and graduate students, GUB lays stress on quality education imparted by a galaxy of highly qualified, dynamic, dedicated, and well-experienced faculty members with global exposure.</string>
+    <string name="about_pc">Presently, Green University conducts its academic programs in spacious and modern multi-storied buildings located in 220/D Begum Rokeya Sarani, Dhaka-1207. In a bid to establish its permanent campus containing state-of-the-art amenities and facilities, GUB has purchased 50 Bigha of lands in Purbachal American City.</string>
+</resources>
